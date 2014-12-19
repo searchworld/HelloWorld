@@ -8,6 +8,8 @@ public class HelloWorld {
 		System.out.println("The second Hello");
 		System.out.println("The third Hello");
 		System.out.println("The forth Hello");
+		System.out.println("The fifth Hello");
+		System.out.println("The sixth Hello");
 	}
 
 }
