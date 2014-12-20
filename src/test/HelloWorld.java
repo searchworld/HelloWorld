@@ -10,6 +10,7 @@ public class HelloWorld {
 		System.out.println("The forth Hello");
 		System.out.println("The fifth Hello");
 		System.out.println("The sixth Hello");
+		System.out.println("The seventh Hello");
 	}
 
 }
